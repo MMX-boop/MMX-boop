@@ -1,16 +1,88 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=190&section=header&text=Lpeanut&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C3%97%20Automation%20%C3%97%20Data&descAlignY=58&descSize=18" alt="Lpeanut profile banner" />
 
-<!--
-**MMX-boop/MMX-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### Hi, I'm Lpeanut 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**把想法做成能运行、能复用、真正解决问题的产品。**  
+Building useful products with AI, automation, and data.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-lpeanut.me-0F172A?style=for-the-badge&logo=safari&logoColor=white)](https://lpeanut.me)
+[![GitHub](https://img.shields.io/badge/GitHub-MMX--boop-181717?style=for-the-badge&logo=github)](https://github.com/MMX-boop)
+
+</div>
+
+## About Me
+
+- 🎯 关注 **AI 应用、计算机视觉、数据工程与自动化**
+- 🧩 喜欢把模型、后端和界面连接成完整、可用的产品
+- 🛠️ 持续完善 Python 工程、Web 应用与智能视觉项目
+- 🌱 保持学习，也欢迎围绕有趣、实用的项目展开协作
+- 📍 Based in China
+
+## Tech I Work With
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+## Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Weibo Hot Search Spider](https://github.com/MMX-boop/weibo-hot-search-spider)
+
+微博热搜话题实时采集系统。自动抓取热搜榜单、相关微博与用户资料，写入 MySQL，并支持定时循环执行。
+
+**Python · BeautifulSoup · PyMySQL · Automation**
+
+</td>
+<td width="50%" valign="top">
+
+### [Personal Website](https://lpeanut.me)
+
+我的个人主页与长期内容入口，用来展示项目、记录学习过程，并沉淀持续迭代的作品。
+
+**Web · Portfolio · Personal Brand**
+
+</td>
+</tr>
+</table>
+
+## Current Focus
+
+> 从“代码能够运行”继续走向“系统稳定、结果可信、产品真正可用”。
+
+- 构建端到端 AI 应用与机器视觉原型
+- 探索数据采集、治理、评估和自动化工作流
+- 打磨更清晰的工程结构、文档和产品体验
+
+## GitHub Overview
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MMX-boop&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Lpeanut GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMX-boop&layout=compact&hide_border=true&theme=transparent" alt="Lpeanut top languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+*The quieter you become, the more you are able to hear.*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=100&section=footer" alt="" />
