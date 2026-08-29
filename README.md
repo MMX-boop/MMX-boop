@@ -35,39 +35,6 @@ Building useful products with AI, automation, and data.
 
 </div>
 
-## Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Weibo Hot Search Spider](https://github.com/MMX-boop/weibo-hot-search-spider)
-
-微博热搜话题实时采集系统。自动抓取热搜榜单、相关微博与用户资料，写入 MySQL，并支持定时循环执行。
-
-**Python · BeautifulSoup · PyMySQL · Automation**
-
-</td>
-<td width="50%" valign="top">
-
-### [Personal Website](https://lpeanut.me)
-
-我的个人主页与长期内容入口，用来展示项目、记录学习过程，并沉淀持续迭代的作品。
-
-**Web · Portfolio · Personal Brand**
-
-</td>
-</tr>
-</table>
-
-## Current Focus
-
-> 从“代码能够运行”继续走向“系统稳定、结果可信、产品真正可用”。
-
-- 构建端到端 AI 应用与机器视觉原型
-- 探索数据采集、治理、评估和自动化工作流
-- 打磨更清晰的工程结构、文档和产品体验
-
 ## GitHub Overview
 
 <div align="center">
