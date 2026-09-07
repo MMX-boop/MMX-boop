@@ -60,16 +60,6 @@
   </tr>
 </table>
 
-## What I'm Exploring
-
-AI product engineering · computer vision · data pipelines · automation · full-stack web applications
-
-## Let's Connect
-
-If you are building something useful with AI, data or automation, feel free to say hello.
-
-[Portfolio](https://lpeanut.me) · [GitHub](https://github.com/MMX-boop)
-
 ---
 
 <div align="center">
