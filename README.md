@@ -1,11 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=190&section=header&text=Lpeanut&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C3%97%20Automation%20%C3%97%20Data&descAlignY=58&descSize=18" alt="Lpeanut profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=190&section=header&text=Peanut&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C3%97%20Automation%20%C3%97%20Data&descAlignY=58&descSize=18" alt="Peanut profile banner" />
 
 <div align="center">
 
-### Hi, I'm Lpeanut 👋
+# Hi, I'm Peanut 👋
 
-**把想法做成能运行、能复用、真正解决问题的产品。**  
-Building useful products with AI, automation, and data.
+把想法做成能运行、能复用、真正解决问题的产品。  
+*Building useful products with AI, automation, and data.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-lpeanut.me-0F172A?style=for-the-badge&logo=safari&logoColor=white)](https://lpeanut.me)
 [![GitHub](https://img.shields.io/badge/GitHub-MMX--boop-181717?style=for-the-badge&logo=github)](https://github.com/MMX-boop)
@@ -35,14 +35,40 @@ Building useful products with AI, automation, and data.
 
 </div>
 
-## GitHub Overview
+## Selected Projects
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/MMX-boop/agentwatch-hub"><strong>agentwatch-hub</strong></a><br />
+      Completion notifications for Codex Desktop and Claude Code, with Bark、QQ / OneBot、飞书 and LLM personas.
+    </td>
+    <td width="50%">
+      <a href="https://github.com/MMX-boop/weibo-hot-search-spider"><strong>weibo-hot-search-spider</strong></a><br />
+      微博热搜话题实时采集、用户资料入库与定时任务，支持 MySQL、Python 和 BeautifulSoup。
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/MMX-boop/MMX-boop.github.io"><strong>Peanut homepage</strong></a><br />
+      Personal site for experiments, notes and practical product ideas.
+    </td>
+    <td>
+      <a href="https://github.com/MMX-boop/MMX-boop"><strong>Profile README</strong></a><br />
+      A small, evolving home for the projects and ideas I am building.
+    </td>
+  </tr>
+</table>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MMX-boop&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Lpeanut GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMX-boop&layout=compact&hide_border=true&theme=transparent" alt="Lpeanut top languages" />
+## What I'm Exploring
 
-</div>
+AI product engineering · computer vision · data pipelines · automation · full-stack web applications
+
+## Let's Connect
+
+If you are building something useful with AI, data or automation, feel free to say hello.
+
+[Portfolio](https://lpeanut.me) · [GitHub](https://github.com/MMX-boop)
 
 ---
 
